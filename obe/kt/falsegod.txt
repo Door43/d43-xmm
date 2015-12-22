@@ -1,0 +1,37 @@
+====== false god, god, goddess ======
+
+===== Definition: =====
+
+A false god is something that people worship instead of the one true God. The term "goddess" refers specifically to an idol that is described as female.
+
+  * These false gods or goddesses do not exist. Yahweh is the only God, and he has no rival.
+  * People sometimes make objects into idols to worship as symbols of their false gods.
+  * In the Bible, God's people frequently turned away from obeying him in order to worship false gods.
+  * Demons often deceive people into believing that the false gods and idols they worship have power.
+  * Baal, Dagon, and Molech were three of the many false gods that were worshiped by people in ancient times.
+  * Goddesses that were worshipped by people in Bible times included Asherah and Artemis (or Diana).
+
+===== Translation Suggestions: =====
+
+  * There may already be a word for "god" or "false god" in the language or in a nearby language.
+  * The term "idol" could be used to refer to false gods.
+  * In English, a small “g” is used to refer to false gods and large “G” is used to refer to the one true God. Other languages also do that.
+  * Another option would be to use a different word to refer to the false gods.
+  * Some languages may add a word to specify whether the false god is described as male or female.
+
+(See also: [[:xmm:obe:kt:god]], [[:En:obe:other:asherah]], [[:xmm:obe:other:baal]], [[:En:obe:other:molech]], [[:xmm:obe:other:idol]], [[:xmm:obe:kt:demon]], [[:En:obe:other:image]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?falsegod&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:xmm:obs:notes:frames:10-02|[10-02]]]** Through these plagues, God showed Pharaoh that he is more powerful than Pharaoh and all of Egypt's **gods**.
+  * **[[:xmm:obs:notes:frames:13-04|[13-04]]]** Then God gave them the covenant and said, "I am Yahweh, your God, who saved you from slavery in Egypt. Do not worship other **gods**."
+  * **[[:xmm:obs:notes:frames:14-02|[14-02]]]** They (Canaanites) worshiped false **gods**  and did many evil things.
+  * **[[:xmm:obs:notes:frames:16-01|[16-01]]]** The Israelites began to worship the Canaanite **gods**  instead of Yahweh, the true God.
+  * **[[:xmm:obs:notes:frames:18-13|[18-13]]]** But most of Judah's kings were evil, corrupt, and they worshiped idols. Some of the kings even sacrificed their children to false **gods**.
+~~DISCUSSION~~{{tag>publish knobs}}
+
+~~NOCACHE~~

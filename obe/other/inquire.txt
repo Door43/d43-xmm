@@ -1,0 +1,20 @@
+====== inquire ======
+
+===== Facts: =====
+
+The term "inquire" means to ask someone for information.
+
+  * The Old Testament records several instances where people inquired of God.
+  * The word can also be used of a king or government official making a search through official written records.
+
+(Translation suggestions: [[:xmm:ta:vol1:translate:translate_names|Translate Names]])
+
+
+
+===== Bible References: =====
+
+{{topic>inquire&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

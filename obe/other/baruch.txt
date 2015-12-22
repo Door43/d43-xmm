@@ -1,0 +1,21 @@
+====== Baruch ======
+
+===== Facts: =====
+A man's name. 
+
+  * Baruch was thought to have been a disciple, or companion or Jeremiah.
+  * Jeremiah may have given his prophecy about Babylon to Baruch to read to the people of Israel.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_names]])
+
+(See also: [[:En:obe:kt:disciple]], [[:En:obe:other:companion]], [[:En:obe:other:jeremiah]], [[:En:obe:kt:prophet]], [[:En:obe:other:babylon]], [[:En:obe:other:israel]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?baruch&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>review jer32 ktlink}}

@@ -1,0 +1,20 @@
+====== Mordecai ======
+
+===== Facts: =====
+
+Mordecai was a Jewish man living in the country of Persia. He was the guardian of his cousin Esther, who later became the wife of the Persian king, Ahasuerus.
+
+  * While working at the royal palace, Mordecai overheard men plotting together to kill King Ahasuerus. He reported this and the king's life was saved.
+  * Some time later, Mordecai also found out about a plan to kill all the Jews in the kingdom of Persia. He advised Esther to appeal to the king to save her people.
+
+(Translation suggestions: [[:xmm:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:xmm:obe:other:esther]], [[:xmm:obe:other:babylon]], [[:xmm:obe:other:ahasuerus]], [[:xmm:obe:other:persia]])
+
+===== Bible References: =====
+
+{{topic>mordecai&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

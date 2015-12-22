@@ -1,0 +1,19 @@
+====== deer, doe, buck, roebuck, fawn ======
+
+===== Definition: =====
+
+Text
+  * bullet
+  * bullet
+
+(See also: other)
+
+===== Bible References: =====
+
+{{topic>:en:bible?deer&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>create ktlink}}

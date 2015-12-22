@@ -1,0 +1,20 @@
+====== man of God ======
+
+===== Facts: =====
+
+Text
+  * bullet
+  * bullet
+
+
+(See also: other)
+
+===== Bible References: =====
+
+{{topic>:en:bible?manofgod&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>create 1ki12 ktlink}}

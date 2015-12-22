@@ -1,0 +1,33 @@
+====== shepherd, to shepherd ======
+
+===== Definition: =====
+
+A shepherd is a person who takes care of sheep. The verb "to shepherd" means to tend or care for sheep. The shepherd may be the owner of the sheep, or he may be someone who is hired by their owner.
+
+  * This term is often used metaphorically in the Bible to refer to taking care of people's spiritual needs. This includes teaching them what God has told them in the Bible and guiding them in the way they should live.
+  * Shepherds watch over the sheep, leading them to places with good food and water. Shepherds also keep the sheep from getting lost and protect them from wild animals.
+  * In the Old Testament, God is called the shepherd of his people because he takes care of all their needs and protects them. He also leads and guides them.
+  * In the New Testament, Jesus calls himself the "good shepherd."
+  * Also in the New Testament, the term "shepherd" is used to refer to a person who is a spiritual leader over other believers. The term "pastor" is the same word as "shepherd." The elders and overseers were also called shepherds.
+
+
+===== Translation Suggestions =====
+
+  * This term could be translated as, "person who takes care of sheep" or "sheep tender" or "sheep caregiver."
+  * When used as a metaphor, different ways to translate this term could include, "spiritual shepherd" or "spiritual leader" or "who is like a shepherd" or "who cares for his people like a shepherd cares for his sheep" or "who leads his people like a shepherd guides his sheep."
+  * Ways to translate the verb, "to shepherd" (a flock) could include, "to take care of" or "to spiritually nourish" or "to guide and teach like a spiritual shepherd."
+
+(See also: [[:xmm:obe:other:sheep|sheep, ram]], [[:xmm:obe:kt:pastor|pastor]], [[:xmm:obe:kt:believer|believer]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?shepherd&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:xmm:obs:notes:frames:09-11|[09-11]]]** Moses became a **shepherd**  in the wilderness far away from Egypt.
+  * **[[:xmm:obs:notes:frames:17-02|[17-02]]]** David was a **shepherd**  from the town of Bethlehem. At different times while he was watching his father's sheep, David had killed both a lion and a bear that had attacked the sheep.
+  * **[[:xmm:obs:notes:frames:23-06|[23-06]]]** That night, there were some **shepherds**  in a nearby field guarding their flocks.
+  * **[[:xmm:obs:notes:frames:23-08|[23-08]]]** The **shepherds**  soon arrived at the place where Jesus was and they found him lying in a feeding trough, just as the angel had told them.
+  * **[[:xmm:obs:notes:frames:30-03|[30-03]]]** To Jesus, these people were like sheep without a **shepherd**.
+~~DISCUSSION~~{{tag>publish ktobs }}

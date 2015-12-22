@@ -1,0 +1,20 @@
+====== Delilah ======
+
+===== Facts: =====
+
+Delilah was a Philistine woman who was loved by Samson, but was not his wife.
+
+  * The Philistines bribed Delilah to trick Samson into telling her how he could be made weak. When his strength was gone, the Philistines captured him.
+  * Delilah loved money more than she loved Samson.
+
+(Translation suggestions: [[:xmm:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:xmm:obe:other:philistines]], [[:xmm:obe:other:samson]])
+
+===== Bible References: =====
+
+{{topic>delilah&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

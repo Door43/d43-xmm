@@ -1,0 +1,21 @@
+====== Abiathar  ======
+
+===== Definition: =====
+
+Abiathar was a high priest for the nation of Israel during the time of King David and King Solomon.
+
+
+  * Abiathar served alongside of the priest, Zadok.
+  * When King Saul massacred the priests, Abiathar escaped and went to David in the wilderness.
+  * After David's death, Abiathar turned against Solomon by helping Adonijah in his attempt to take away Solomon's kingship.
+  * Because of this, Solomon removed Abiathar from the priesthood.
+  
+  (See also: [[:xmm:obe:other:zadok|Zadok]], [[:xmm:obe:other:saul|Saul (OT)]], [[:xmm:obe:other:david|David]], [[:xmm:obe:other:solomon|Solomon]], [[:xmm:obe:other:adonijah|Adonijah]])
+
+===== Bible References: =====
+
+{{topic>Abiathar&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

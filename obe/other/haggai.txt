@@ -1,0 +1,22 @@
+====== Haggai ======
+
+===== Facts: =====
+
+Haggai was a prophet of Judah during the time when the Jews were back in Israel after the Babylonian captivity.
+
+  * During the time period when Haggai was prophesying, King Uzziah was reigning over Judah.
+  * Haggai exhorted the Jews to start rebuilding the temple again.
+  * The book of Haggai is in the part of the Old Testament called the minor prophets.
+
+(Translation suggestions: [[:xmm:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:xmm:obe:other:uzziah]], [[:xmm:obe:other:kingdomofjudah]], [[:xmm:obe:other:babylon]])
+
+===== Bible References: =====
+
+{{topic>haggai&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+
+{{tag>publish}}
