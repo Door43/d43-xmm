@@ -5,10 +5,6 @@
   * [[:xmm:obe:kt:home|Key Terms]]
   * [[:xmm:obe:other:home|Other Terms]]
 
-==== Does a term need to be in either of these lists? ====
-  * [[:xmm:bible:team-info:training:topics:kt-yes-no]]
-  * [[en:bible:team-info:training:topics:common-words]] - If it's on this list, most likely not.
-  * [[:xmm:bible:admin-reports:obe-admin:obe-reject]] - If it's on this list, no.
 
 ==== All Terms in the OBE: ====
 
