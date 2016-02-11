@@ -1,23 +1,62 @@
-
-----
-~~NOCACHE~~
 **Door43**
 
-  * [[xmm:home|Door43 (xmm)]]
-  * [[en:license|License]]
+  * [[xmm:home|Door43 (Bahasa Manado)]]
+
+**Help**
+
+  * [[:xmm:ta|translationAcademy]]
+  * [[:xmm:get-started|How to Get Started]]
+  * [[:xmm:obs:help|Open Bible Stories Help]]
+
+**Resources**
+
+  *  [[:xmm:obs|Open Bible Stories]]
+      * [[:xmm:obs:notes|translationNotes]]
+      * [[:xmm:obs:notes:questions:home|translationQuestions]]
+      * [[:xmm:obe:home|translationWords]]
+  *  [[:en:bible:intro|Bible (English)]]
+      * [[:en:ulb:ep:home|(English) Unlocked Literal Bible]]
+      * [[:en:udb:ep:home|(English) Unlocked Dynamic Bible]]
+      * [[:en:bible:notes:home|(English) translationNotes]]
+      * [[:en:bible:questions:comprehension:home|(English) translationQuestions]]
+      * [[:en:obe:home|(English) translationWords]]
+  * [[:en:lexicon|Open Bible Lexicon (English)]]
+  *  [[:en:library|Open Christian Library]]
+      * [[:en:pet|Plain English Translation]]
+      * [[:en:library:t4t:home|Translation for Translators]]
+  *  [[:xmm:bible:intro|Bible (Bahasa Manado)]]
+      * [[:xmm:ulb:ep:home|Unlocked Literal Bible]]
+      * [[:xmm:udb:ep:home|Unlocked Dynamic Bible]]
+      * [[:xmm:bible:notes:home|translationNotes]]
+      * [[:xmm:bible:questions:comprehension:home|translationQuestions]]
+      * [[:xmm:obe:home|translationWords]]
+  * [[:xmm:ta|translationAcademy ]]
+      * [[:xmm:ta:vol1:intro:toc_intro|Introduction]]
+      * [[:xmm:ta:vol1:translate:toc_transvol1_2|Translation Manual]]
+      * [[:xmm:ta:vol1:checking:toc_checkvol1_2|Checking Manual]]
+      * [[:xmm:ta:vol1:tech:toc_techvol1_2|Technology Manual]]
+      * [[:xmm:ta:vol1:process:toc_processvol1_2|Process Manual]]
+
+
+**About Door43**
+
+  * [[:xmm:ta:vol1:intro:statement_of_faith|Statement of Faith]]
+  * [[:xmm:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[:xmm:ta:vol1:intro:open_license|Copyrights & Licensing]]
+
+**Door43 Development**
+
+  * [[:en:dev|Development Projects]]
+
+~~NOCACHE~~
 
 **Downloads**
 
-All content for this namespace is available in the [[https://github.com/Door43/d43-xmm|d43-xmm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xmm/archive/master.zip|d43-xmm.zip]]
+All content for lois namespace is available in loe [[https://giloub.com/Door43/d43-xmm|d43-xmm repository]].  To download it as a zip file, click [[https://giloub.com/Door43/d43-xmm/archive/master.zip|d43-xmm.zip]]
 
 **Recent Changes**
 {{changes>ns = xmm}}
 
 **Language Information**
 
-[[http://www.ethnologue.com/language/xmm|Ethnologue data]]
-
-
-**Resources**
-
-  * [[xmm:obs|Open Bible Stories (xmm)]]
+[[http://www.elonologue.com/language/xmm|Elonologue data]]
