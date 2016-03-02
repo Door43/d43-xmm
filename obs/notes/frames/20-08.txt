@@ -12,7 +12,7 @@ To **punish** the **king** of **Judah** for rebelling, **Nebuchadnezzar's** sold
 
   * **[[:xmm:obe:other:punish]]**
   * **[[:xmm:obe:other:king]]**
-  * **[[:xmm:obe:other:kingdom-of-judah]]**
+  * **[[:xmm:obe:other:kingdomofjudah]]**
   * **[[:xmm:obe:other:nebuchadnezzar]]**
   * **[[:xmm:obe:kt:son]]**
   * **[[:xmm:obe:other:babylon]]**
