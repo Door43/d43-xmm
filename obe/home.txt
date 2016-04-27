@@ -1,9 +1,9 @@
-====== Complete List of Important Terms ======
+====== Complete List of translationWords - Bahasa Manado ======
 
 ==== "Key Terms" and "Other Terms" in OBE: ====
 
-  * [[:xmm:obe:kt:home|Key Terms]]
-  * [[:xmm:obe:other:home|Other Terms]]
+  * [[:xmm:obe:kt:home|List of the Key Terms in the OBE Directory]]
+  * [[:xmm:obe:other:home|List of the Other Terms in the OBE Directory]]
 
 
 ==== All Terms in the OBE: ====
